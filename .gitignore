@@ -1,0 +1,53 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.suo
+*.tlb
+*.tlh
+*.tmp
+*.temp
+*.pdb
+*.log
+*.cache
+.ipynb_checkpoints/
+*.csv
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+bin/
+build/
+lib/
+local/
+node_modules/
+
+# Distribution directories
+dist/
+egg-info/
+parts/
+var/
+*.egg
+*.egg-info
+.installed.cfg
+*.egg-info
+*.app
+*.exe
