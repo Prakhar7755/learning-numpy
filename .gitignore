@@ -5,7 +5,7 @@ __pycache__/
 
 # Virtual environment
 venv/
-
+\venv\Lib\site-packages\numpy\lib\_version.pyi
 # IDE or editor specific files
 .vscode/
 .idea/
